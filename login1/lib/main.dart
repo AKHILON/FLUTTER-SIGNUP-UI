@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
                 boxShadow: [
                   BoxShadow(
                     color: Colors.blueGrey,
-                    offset: Offset(2, 1),
+                    offset: Offset(1, 1),
                     blurRadius: 1.0,
                     spreadRadius: 1.0,
                   ),
@@ -105,7 +105,7 @@ class _HomePageState extends State<HomePage> {
                 boxShadow: [
                   BoxShadow(
                     color: Color.fromRGBO(0, 0, 0, 0.1),
-                    offset: Offset(2, 1),
+                    offset: Offset(4, 2),
                     blurRadius: 1.0,
                     spreadRadius: 1.0,
                   ),
@@ -135,7 +135,7 @@ class _HomePageState extends State<HomePage> {
                 boxShadow: [
                   BoxShadow(
                     color: Colors.green,
-                    offset: Offset(2, 1),
+                    offset: Offset(1, 1),
                     blurRadius: 1.0,
                     spreadRadius: 1.0,
                   ),
